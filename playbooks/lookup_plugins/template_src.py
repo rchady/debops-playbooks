@@ -32,6 +32,7 @@ from ansible import utils, errors
 import os
 
 from debops import *
+from debops.cmd import *
 
 __author__ = "Robert Chady <rchady@sitepen.com>"
 __copyright__ = "Copyright 2015 by Robert Chady <rchady@sitepen.com>"
